@@ -1,4 +1,4 @@
-import {getPercents} from './index.js';
+import {getPercents} from '../index.js';
 
 
 
